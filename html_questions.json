@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Warrom we gebruiken <br> Element?",
+        "answer_1": "Om een Breakline te maken",
+        "answer_2": "Om tekst Crusief te maken",
+        "answer_3": "Om tekst Vetgedrukt te maken",
+        "answer_4": "Om een Horizontale lijn te creëren",
+        "right_answer": "Om een Breakline te maken"
+    },
+    {
+        "title": "is <img> Element heeft een kenmerk href?",
+        "answer_1": "ja",
+        "answer_2": "Nee het is voor anker tag <a>",
+        "answer_3": " Alle Elementen hebben dit kenmerk",
+        "answer_4": " Antwoord 1 en 3 zijn correct",
+        "right_answer": "Nee het is voor anker tag <a>"
+    },
+    {
+        "title": "Hoe kan we Element Text Bold Maken?",
+        "answer_1": "Zet het binnen <b> tag",
+        "answer_2": "Zet het binnen <strong> tag",
+        "answer_3": "Het aanpassen van het Font-weight in CSS ",
+        "answer_4": " Alle Antwoorden zijn correct",
+        "right_answer": "Alle Antwoorden zijn correct"
+    },
+    {
+        "title": "Doel van 'id'-attribuut in HTML?",
+        "answer_1": " Unieke identificatie van een element in een document",
+        "answer_2": "het is voor anker tag <a>",
+        "answer_3": "Om een Breakline te maken ",
+        "answer_4": " Alle Antwoorden zijn correct",
+        "right_answer": "Unieke identificatie van een element in een document"
+    },
+    {
+        "title": "Definitie van een paragraaf in HTML?",
+        "answer_1": "Gebruik <ul> voor lijsten zonder specifieke volgorde",
+        "answer_2": "Gebruik <p> voor tekst in een paragraaf",
+        "answer_3": " <hr> om een visuele scheiding aan te brengen",
+        "answer_4": " Antwoord 1 en 2 zijn correct",
+        "right_answer": "Gebruik <p> voor tekst in een paragraaf"
+    }
+]
